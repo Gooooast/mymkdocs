@@ -20,4 +20,8 @@
          <loc>https://mydomain.org/mysite/5-Diagrams/</loc>
          <lastmod>2024-10-25</lastmod>
     </url>
+    <url>
+         <loc>https://mydomain.org/mysite/test/hello/</loc>
+         <lastmod>2024-10-25</lastmod>
+    </url>
 </urlset>

@@ -49,3 +49,6 @@ hello
 
 !!! success
     success.
+
+!!! tip
+    tip.

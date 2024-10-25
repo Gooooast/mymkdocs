@@ -46,3 +46,6 @@ hello
 
 !!! warning
     warning.
+
+!!! success
+    success.

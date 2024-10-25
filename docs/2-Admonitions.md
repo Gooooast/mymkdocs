@@ -7,7 +7,7 @@
 
 
 ## Collapsible
-???+ note "collapsible"
+??? note "collapsible"
     下拉
 
     

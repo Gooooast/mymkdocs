@@ -46,7 +46,7 @@ sequenceDiagram
 ## Gitgaph Chart
 ``` mermaid
     gitGraph
-       commit
+       commit "123"
        commit
        branch develop
        commit
